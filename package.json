@@ -1,6 +1,6 @@
 {
   "name": "arcovia",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Understand your architecture. Measure what matters. Improve continuously.",
   "main": "src/index.ts",
   "scripts": {
